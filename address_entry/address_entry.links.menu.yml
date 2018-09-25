@@ -1,0 +1,5 @@
+entity.address_entry.collection:
+  title: 'Address Entry Entity: Address Entry Listing'
+  route_name: entity.address_entry.collection
+  description: 'List Address Entry'
+  weight: 10

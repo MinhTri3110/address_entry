@@ -1,0 +1,5 @@
+name: Address Entry
+type: module
+description: 'Create address entry entity'
+package: Develop
+core: 8.x
